@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Diverse Destinations
 
-## Getting Started
+Welcome to Diverse Destinations a project dedicated to exploring the world’s most diverse and inclusive travel destinations. This platform is specifically designed with neurodivergent individuals and people with disabilities in mind, providing valuable insights into travel locations that prioritize accessibility, comfort, and unique experiences tailored to diverse needs. Whether you're planning your next trip or simply exploring new destinations, this project is here to guide you.
 
-First, run the development server:
+## Destinations Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Each destination is carefully selected based on its accessibility and the inclusive facilities it offers to neurodivergent individuals and people with disabilities. From wheelchair ramps and sensory-friendly spaces to easy-to-navigate public transport and quiet zones, this platform offers tailored insights to help make your travel experience as comfortable and enjoyable as possible.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Note: 
+This project is in the early stages of development, so many features are still being built out and may not function fully yet. We appreciate your patience and support as we continue to grow and improve the platform.
